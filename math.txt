@@ -1,6 +1,4 @@
 add func()
-
-
 mod func()
 
 
